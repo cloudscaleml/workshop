@@ -17,8 +17,7 @@ This section will introduce the foundational concepts of machine learning primar
 - Function (machine made)
 - intro scikit-learn
 - intro tensorflow
-- features
-- Starting up Azure ML service
+- Setup -  [Click here for Setup Steps](setup.md)
 
 ## Hour 2 – Hands on with scikit-learn and TensorFlow
 This hands-on lab includes setting up a local development environment as well as two machine learning problems attendees will solve with scikit-learn and TensorFlow
