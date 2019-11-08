@@ -50,11 +50,11 @@ This section of the workshop will delve into three advanced techniques available
 - Intro to Pipelines
 
 ## Hour 6 – Hands-on Advanced Experimentation in Azure Machine Learning service
-The lab portion will contain exercises designed to help attendees better understand automatic hyperparameter tuning, automatic machine learning, and Azure Machine Learning pipelines.
+The lab portion will contain exercises designed to help attendees better understand automatic hyperparameter tuning, automatic machine learning, Designer and Azure Machine Learning pipelines.
 
 - Lab - [hyperparam-digits](https://github.com/cloudscaleml/hyperparams-digits)
 - Lab - [automl-digits](https://github.com/cloudscaleml/automl-digits)
-
+- Lab - [aml-designer](https://github.com/cloudscaleml/aml-designer)
 
 ## Hour 7 – The Intersection of Data Science and DevOps
 This section will introduce attendees to 3 features in Azure Machine Learning service designed to manage the artifacts associated with machine learning: model, image, and service management. Attendees will also learn what to do when things change. What should happen when data has changed and machine learning models no longer work? What if there’s a better machine learning model for the problem? 
