@@ -51,7 +51,7 @@ This section of the workshop will delve into three advanced techniques available
 - Intro to Pipelines
 
 ## Hour 6 – Hands-on Advanced Experimentation in Azure Machine Learning service
-The lab portion will contain exercises designed to help attendees better understand automatic hyperparameter tuning, automatic machine learning, and Azure Machine Learning pipelines.
+The lab portion will contain exercises designed to help attendees better understand automatic hyperparameter tuning, automatic machine learning, and an introduction to Azure Machine Learning pipelines.
 
 - Lab - [hyperparam-digits](https://github.com/cloudscaleml/hyperparams-digits)
 - Lab - [automl-digits](https://github.com/cloudscaleml/automl-digits)
@@ -67,6 +67,4 @@ This section will introduce attendees to 3 features in Azure Machine Learning se
 ## Hour 8 – Automating your Machine Learning Pipeline in the Cloud
 The goal of this hands-on lab is to promote machine learning models created during the workshop all the way to production. 
 
-- Lab - [first-pipeline](https://github.com/cloudscaleml/seer/blob/master/firstpipeline.md)
-- Lab - [seer-pipeline](https://github.com/cloudscaleml/seer/blob/master/seerpipeline.md)
-- Lab - [AzDO Release Pipeline](https://github.com/cloudscaleml/seer/blob/master/azdodeploy.md)
+- Lab - [AML+AzDo Pipelines](https://github.com/cloudscaleml/seer/blob/master/README.md)
