@@ -4,7 +4,7 @@
 
 ### 2. Go to www.microsoftazurepass.com to redeem a $100 Azure Credit code that was sent to you via email.
 
-### 3. Create Azure Machine Learninge Resources with the Deploy to Azure Button below
+### 3. Create Azure Machine Learning Resources with the Deploy to Azure Button below
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcassieview%2Fignite-learning-paths-training-aiml%2Fmaster%2Faiml30%2Fdeploy.json" rel="nofollow">
  <img src="https://camo.githubusercontent.com/9285dd3998997a0835869065bb15e5d500475034/687474703a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67" data-canonical-src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;">
 </a>
